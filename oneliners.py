@@ -56,7 +56,7 @@ if __name__ == '__main__':
     print(output)
 
     """
-    G. Given a matrix m (a list of two or more lists of the same length), return a single 1-dimensional list that is the concatenation of all rows. 
+    G.  Given a matrix m (a list of two or more lists of the same length), return a single 1-dimensional list that is the concatenation of all rows. 
        Example: m=[[1,2],[3,4],[5,6]], output=[1,2,3,4,5,6]
     """
     m = eval(input())
